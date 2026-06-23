@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zajel-sudan-rates.github.io/sitemap.xml
